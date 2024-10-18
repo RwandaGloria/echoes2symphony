@@ -25,9 +25,3 @@ Javascript Files:
  - Animate On Scroll (https://michalsnik.github.io/aos/)
  - Pace JS (https://github.hubspot.com/pace/docs/welcome/)
 
--------------------------------------------------------------------------------------------------------
-
-
-Thanks for downloading from Styleshout :)
-
-
